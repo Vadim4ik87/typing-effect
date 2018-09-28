@@ -1,0 +1,11 @@
+body {
+  height: 100vh;
+  background-color: black;
+  color: #fff;
+}
+
+
+/* Cursor */
+.typing > .txt {
+  border-right: 0.2rem solid #fff;
+}
